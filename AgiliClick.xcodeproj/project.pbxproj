@@ -271,7 +271,7 @@
 				CODE_SIGN_ENTITLEMENTS = AgiliClick/AgiliClick.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 1.0.14;
+				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"AgiliClick/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = AgiliClick/Info.plist;
@@ -295,7 +295,7 @@
 				CODE_SIGN_ENTITLEMENTS = AgiliClick/AgiliClick.entitlements;
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
-				CURRENT_PROJECT_VERSION = 1.0.14;
+				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"AgiliClick/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = AgiliClick/Info.plist;
