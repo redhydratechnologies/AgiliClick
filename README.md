@@ -193,13 +193,13 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/redhydratechnologies/redhydratech.svg?style=for-the-badge
-[contributors-url]: https://github.com/redhydratechnologies/redhydratech/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/redhydratechnologies/redhydratech.svg?style=for-the-badge
-[forks-url]: https://github.comredhydratechnologies/redhydratech/network/members
-[stars-shield]: https://img.shields.io/github/stars/redhydratechnologies/redhydratech.svg?style=for-the-badge
-[stars-url]: https://github.com/redhydratechnologies/redhydratech/stargazers
-[issues-shield]: https://img.shields.io/github/issues/redhydratechnologies/redhydratech.svg?style=for-the-badge
-[issues-url]: https://github.com/redhydratechnologies/redhydratech/issues
-[license-shield]: https://img.shields.io/github/license/redhydratechnologies/redhydratech.svg?style=for-the-badge
-[license-url]: https://github.com/redhydratechnologies/redhydratech/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors//redhydratechnologies/AgiliClick.svg?style=for-the-badge
+[contributors-url]: https://github.com//redhydratechnologies/AgiliClick/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks//redhydratechnologies/AgiliClick.svg?style=for-the-badge
+[forks-url]: https://github.com/redhydratechnologies/AgiliClick/network/members
+[stars-shield]: https://img.shields.io/github/stars/redhydratechnologies/AgiliClick.svg?style=for-the-badge
+[stars-url]: https://github.com/redhydratechnologies/AgiliClick/stargazers
+[issues-shield]: https://img.shields.io/github/issues/redhydratechnologies/AgiliClick.svg?style=for-the-badge
+[issues-url]: https://github.com/redhydratechnologies/AgiliClick/issues
+[license-shield]: https://img.shields.io/github/license/redhydratechnologies/AgiliClick.svg?style=for-the-badge
+[license-url]: https://github.com/redhydratechnologies/AgiliClick/blob/master/LICENSE.txt
