@@ -89,10 +89,8 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-
 This is a simple macro MacOS app developed through Xcode 12+. It is easy to customize and use.
 
-License is GNU GPLv2. 
 **To avoid retyping too much info. Do a search and replace with your text editor for the following:**
 `github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
 
@@ -163,7 +161,7 @@ Contributions are what make the open source community such an amazing place to b
 <!-- LICENSE -->
 ## License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+Distributed under the GNU GPLv2 License. See `LICENSE` for more information.
 
 
 
