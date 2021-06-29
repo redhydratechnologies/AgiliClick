@@ -194,8 +194,8 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors//redhydratechnologies/AgiliClick.svg?style=for-the-badge
-[contributors-url]: https://github.com//redhydratechnologies/AgiliClick/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks//redhydratechnologies/AgiliClick.svg?style=for-the-badge
+[contributors-url]: https://github.com/redhydratechnologies/AgiliClick/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/redhydratechnologies/AgiliClick.svg?style=for-the-badge
 [forks-url]: https://github.com/redhydratechnologies/AgiliClick/network/members
 [stars-shield]: https://img.shields.io/github/stars/redhydratechnologies/AgiliClick.svg?style=for-the-badge
 [stars-url]: https://github.com/redhydratechnologies/AgiliClick/stargazers
